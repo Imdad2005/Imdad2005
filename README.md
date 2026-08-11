@@ -120,9 +120,7 @@
 ## Contribution Graph
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Imdad2005/Imdad2005/output/github-contribution-grid-snake-dark.svg" alt="Pac-Man style contribution graph generated with Platane/snk" />
+	<img src="https://raw.githubusercontent.com/Imdad2005/Imdad2005/output/pacman.svg" alt="Pac-Man eating the contribution graph" />
 </div>
 
-<div align="center">
-	Generated with Platane/snk GitHub Action.
-</div>
+

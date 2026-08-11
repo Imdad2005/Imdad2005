@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=240&section=header&text=Hey%20%F0%9F%91%8B%20What%27s%20Up%3F&fontSize=54&fontAlignY=38&desc=Imdad%20Aqueel%20%E2%80%A2%204th-year%20B.Tech%20ECE%20%E2%80%A2%20REVA%20University%2C%20Bengaluru&descSize=18&descAlignY=66&fontColor=ffffff&color=0d1117&stroke=ff4fd8&strokeWidth=1" alt="Hey What's Up?" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=240&section=header&text=Hey%20%F0%9F%91%8B%20What%27s%20Up%3F&fontSize=54&fontAlignY=38&desc=Imdad%20Aqueel%20%E2%80%A2%204th-year%20B.Tech%20ECE%20%E2%80%A2%20REVA%20University%2C%20Bengaluru&descSize=18&descAlignY=66&fontColor=ffffff&color=0d1117&stroke=ff4fd8&strokeWidth=1" alt="Hello Fellow Coders/Builders?" />
 
 <p>
 	Embedded firmware, hardware design, and real-time systems with a bias toward fast loops, clean interfaces, and hardware that ships.

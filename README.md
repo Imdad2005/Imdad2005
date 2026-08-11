@@ -120,9 +120,9 @@
 ## Contribution Graph
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Imdad2005/Imdad2005/output/pacman.svg" alt="Pac-Man eating the contribution graph" />
-</div>
-
-<div align="center">
-	Generated with Platane/snk GitHub Action.
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Imdad2005/Imdad2005/output/pacman-contribution-graph-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Imdad2005/Imdad2005/output/pacman-contribution-graph.svg" />
+		<img src="https://raw.githubusercontent.com/Imdad2005/Imdad2005/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
+	</picture>
 </div>

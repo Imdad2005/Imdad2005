@@ -123,4 +123,6 @@
 	<img src="https://raw.githubusercontent.com/Imdad2005/Imdad2005/output/pacman.svg" alt="Pac-Man eating the contribution graph" />
 </div>
 
-
+<div align="center">
+	Generated with Platane/snk GitHub Action.
+</div>

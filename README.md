@@ -43,7 +43,7 @@
 ## GitHub Stats
 
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imdad2005&theme=dark&background=0d1117&border=ff4fd8&stroke=00e5ff&ring=00e5ff&fire=ff4fd8&currStreakLabel=00e5ff&sideLabels=8be9fd&dates=8b949e&sideNums=ffffff" alt="Imdad2005 streak stats" />
+	<img src="https://streak-stats.demolab.com/?user=Imdad2005&theme=dark&background=0d1117&border=ff4fd8&stroke=00e5ff&ring=00e5ff&fire=ff4fd8&currStreakLabel=00e5ff&sideLabels=8be9fd&dates=8b949e&sideNums=ffffff" alt="Imdad2005 streak stats" />
 </div>
 
 ---

@@ -51,16 +51,7 @@
 ## Trophy Wall
 
 <div align="center">
-	<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; max-width:900px; margin:0 auto;">
-		<img src="https://img.shields.io/badge/Stars-0d1117?style=for-the-badge&logo=github&logoColor=ff4fd8" alt="Stars" />
-		<img src="https://img.shields.io/badge/Commits-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff" alt="Commits" />
-		<img src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=ff4fd8" alt="Repositories" />
-		<img src="https://img.shields.io/badge/Followers-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff" alt="Followers" />
-		<img src="https://img.shields.io/badge/Pull%20Requests-0d1117?style=for-the-badge&logo=github&logoColor=ff4fd8" alt="Pull Requests" />
-		<img src="https://img.shields.io/badge/Issues-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff" alt="Issues" />
-		<img src="https://img.shields.io/badge/Reviews-0d1117?style=for-the-badge&logo=github&logoColor=ff4fd8" alt="Reviews" />
-		<img src="https://img.shields.io/badge/%E2%80%8B-0d1117?style=for-the-badge" alt="" />
-	</div>
+	<img src="https://github-profile-trophy.vercel.app/?username=Imdad2005&theme=dark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
